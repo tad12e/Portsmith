@@ -1,0 +1,1 @@
+"""Service table widget (scaffold)."""

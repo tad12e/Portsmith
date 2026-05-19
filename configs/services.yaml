@@ -1,0 +1,11 @@
+
+services:
+  auth:
+    command: python auth.py
+    port: 5001
+    domain: auth.local
+
+  api:
+    command: python api.py
+    port: 8000
+    domain: api.local

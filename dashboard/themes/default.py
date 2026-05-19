@@ -1,0 +1,1 @@
+"""Default dashboard theme (scaffold)."""
